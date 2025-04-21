@@ -13,3 +13,4 @@ Welcome to the **Data Cleaning Project**! This repository is dedicated to standa
 - Ensure data types and formatting consistency
 - Detect and remove duplicates
 - Prepare a clean dataset ready for downstream tasks
+THE BELOW DATA SET IS THE RAW ONE AS THE TASK GIVES COMPLETE CLEANING PROCESS OF DATA
